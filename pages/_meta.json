@@ -1,15 +1,19 @@
 {
   "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
-  "about": {
-    "title": "About",
-    "type": "page"
-  },
+  "Experience" : "Experience",
+  "Projects" : "Projects",
+  "Skills" : "Skills",
+  "Achievements" : "Achievements",
+  "Socials" : "Socials",
+  "Gallery" : "Gallery",
+  "Content-Creator" : "Content-Creator",
+
+
+  
   "contact": {
-    "title": "Contact ↗",
-    "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "title": "",
+    "type": "",
+    "href": "",
     "newWindow": true
   }
 }
