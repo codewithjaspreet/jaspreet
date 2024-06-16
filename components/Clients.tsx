@@ -25,25 +25,26 @@ const Clients = () => {
           />
         </div>
 
-        <div className="flex flex-wrap items-center justify-center gap-4 md:gap-16 max-lg:mt-10">
+        {/* <div className="flex flex-wrap items-center justify-center gap-4 md:gap-16 max-lg:mt-10">
           {companies.map((company) => (
             <React.Fragment key={company.id}>
-              <div className="flex md:max-w-60 max-w-32 gap-2">
+              <div className="flex flex-col items-center md:max-w-30 max-w-32 gap-2">
                 <img
                   src={company.img}
-                  alt={company.name}
-                  className="md:w-10 w-5"
+                  alt={company.name} // Uncomment if you want alt text
+                  className="md:w-30 md:h-30 w-40 h-40 object-contain"
                 />
+                Uncomment and adjust the second image as needed
                 <img
                   src={company.nameImg}
-                  alt={company.name}
+                  alt={company.name} // Uncomment if you want alt text
                   width={company.id === 4 || company.id === 5 ? 100 : 150}
-                  className="md:w-24 w-20"
+                  className="md:w-24 w-20 object-contain"
                 />
               </div>
             </React.Fragment>
           ))}
-        </div>
+        </div> */}
       </div>
     </section>
   );

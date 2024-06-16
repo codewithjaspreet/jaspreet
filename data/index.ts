@@ -140,64 +140,67 @@ export const testimonials = [
 export const companies = [
   {
     id: 1,
-    name: "cloudinary",
-    img: "/cloud.svg",
-    nameImg: "/cloudName.svg",
+    name: "TechdockLabs",
+    img: "/techdocklabs.webp",
+    // nameImg: "/techdocklabs.jpeg",
   },
   {
     id: 2,
-    name: "appwrite",
-    img: "/app.svg",
-    nameImg: "/appName.svg",
+    name: "Happsales Private Ltd",
+    img: "/happsales.png",
+    // nameImg: "/happsales.png",
   },
   {
     id: 3,
-    name: "HOSTINGER",
+    name: "Manupatra",
     img: "/host.svg",
-    nameImg: "/hostName.svg",
+    // nameImg: "/hostName.svg",
   },
   {
     id: 4,
-    name: "stream",
+    name: "Prosessed",
     img: "/s.svg",
-    nameImg: "/streamName.svg",
+    // nameImg: "/streamName.svg",
   },
   {
     id: 5,
-    name: "docker.",
-    img: "/dock.svg",
-    nameImg: "/dockerName.svg",
+    name: "Renkorover.",
+    img: "/prosessed.webp",
+    // nameImg: "/dockerName.svg",
   },
 ];
-
 export const workExperience = [
   {
     id: 1,
-    title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    title: "SDE Intern",
+    desc: "Assisted in the development of a Mobile-based Client Project using Flutter, enhancing interactivity.",
     className: "md:col-span-2",
-    thumbnail: "/exp1.svg",
+    thumbnail: "/techdocklabs.png",
+    duration: "June 2020 - Dec 2020",
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+    title: "SDE Intern",
+    desc: "Designed and developed mobile app for both iOS & Android platforms using Flutter Framework.",
     className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "/exp2.svg",
+    thumbnail: "/happsales.png",
+    duration: "Feb 2023 - May 2023",
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+    title: "SDE Intern",
+    desc: "Led the dev of 1st version of mobile app along with founding team, from initial concept to deployment on play store.",
     className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "/exp3.svg",
+    thumbnail: "/prosessed.png",
+    duration: "Feb 2024 - May 2024",
   },
   {
     id: 4,
-    title: "Lead Frontend Developer",
+    title: "SDE-1",
     desc: "Developed and maintained user-facing features using modern frontend technologies.",
     className: "md:col-span-2",
-    thumbnail: "/exp4.svg",
+    thumbnail: "/renkorover.png",
+    duration: "Jul 2021 - Present",
   },
 ];
 
@@ -205,13 +208,16 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    redirectUrl: "https://github.com/codewithjaspreet/",
   },
   {
     id: 2,
-    img: "/twit.svg",
+    img: "/insta.svg",
+    redirectUrl: "https://instagram.com/jaspreet.dev/",
   },
   {
     id: 3,
     img: "/link.svg",
+    redirectUrl: "https://www.linkedin.com/in/jaspreetsodhi482/",
   },
 ];

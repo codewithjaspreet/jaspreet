@@ -35,10 +35,16 @@ const Experience = () => {
                 alt={card.thumbnail}
                 className="lg:w-32 md:w-20 w-16"
               />
-              <div className="lg:ms-5">
-                <h1 className="text-start text-xl md:text-2xl font-bold">
-                  {card.title}
-                </h1>
+              <div className="lg:ms-5 ">
+                <div className="flex  justify-between items-center">
+                  <h3 className="text-start text-sm text-clip md:text-xl font-bold">
+                    {card.title}
+                  </h3>
+
+                  <h3 className=" text-sm md:text-sm font-normal text-white-200">
+                    {card.duration}
+                  </h3>
+                </div>
                 <p className="text-start text-white-100 mt-3 font-semibold">
                   {card.desc}
                 </p>
