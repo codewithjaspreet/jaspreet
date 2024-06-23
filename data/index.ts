@@ -107,33 +107,27 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Jaspreet was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Jaspreet's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Jaspreet is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Jaspreet is a brilliant software engineer who consistently delivers robust and scalable code. His proactive approach and passion for technology are truly inspiring.",
+    name: "Sumran Talreja",
+    title: "Project Manager at Provab Technosoft",
+  },
+  {
+    quote:
+      "Jaspreet's technical expertise and problem-solving skills are exceptional. His ability to deliver high-quality code and collaborate effectively made a significant impact on our project's success. Highly recommended!",
+    name: "Priyam Srivastava",
+    title: "CTO at Renkorover",
+  },
+  {
+    quote:
+      "Working with Jaspreet has been outstanding. Their technical acumen, strong work ethic, and ability to translate business requirements into technical solutions are remarkable",
+    name: "Sahil Sharma",
+    title: "SDE at Scaler",
   },
   {
     quote:
       "Collaborating with Jaspreet was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Jaspreet's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Jaspreet is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Jaspreet was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Jaspreet's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Jaspreet is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Jaspreet was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Jaspreet's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Jaspreet is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Jaspreet was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Jaspreet's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Jaspreet is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    name: "Raj Upadhyay",
+    title: "Quant Engineer At Alphagrep",
   },
 ];
 
