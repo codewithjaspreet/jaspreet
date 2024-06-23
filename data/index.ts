@@ -49,12 +49,12 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently building a JS Animation library",
-    description: "The Inside Scoop",
+    title: "Currently I am Learning System Design",
+    description: "Present Interest",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
     titleClassName: "justify-center md:justify-start lg:justify-center",
-    img: "/b5.svg",
+    img: "/2.png",
     spareImg: "/grid.svg",
   },
   {
@@ -72,66 +72,66 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
+    title: "EStud - College Facilities",
     des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-    img: "/p1.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
+    img: "/estud.png",
+    // iconLists: ["/flutter.png"],
+    link: "https://github.com/codewithjaspreet/College-Hub",
   },
   {
     id: 2,
-    title: "Yoom - Video Conferencing App",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-    img: "/p2.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/ui.yoom.com",
+    title: "Analytics Dashboard",
+    des: "A Comprehensive Analysis of Top Data Science Courses From Coursera & Great Learning",
+    img: "/dashboard.png",
+    // iconLists: ["/next.svg", "/tail.svg", "/ts.svg"],
+    link: "https://github.com/codewithjaspreet/EduMetrics",
   },
-  {
-    id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-    img: "/p3.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "/ui.aiimg.com",
-  },
-  {
-    id: 4,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-    img: "/p4.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "/ui.apple.com",
-  },
+  // {
+  //   id: 3,
+  //   title: "AI Image SaaS - Canva Application",
+  //   des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
+  //   img: "/p3.svg",
+  //   // iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
+  //   link: "/ui.aiimg.com",
+  // },
+  // {
+  //   id: 4,
+  //   title: "Animated Apple Iphone 3D Website",
+  //   des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
+  //   img: "/p4.svg",
+  //   // iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+  //   link: "/ui.apple.com",
+  // },
 ];
 
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Jaspreet was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Jaspreet's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Jaspreet is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Jaspreet was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Jaspreet's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Jaspreet is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Jaspreet was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Jaspreet's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Jaspreet is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Jaspreet was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Jaspreet's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Jaspreet is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Jaspreet was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Jaspreet's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Jaspreet is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
@@ -153,7 +153,7 @@ export const companies = [
   {
     id: 3,
     name: "Manupatra",
-    img: "/host.svg",
+    img: "/manupatra.png",
     // nameImg: "/hostName.svg",
   },
   {
@@ -188,19 +188,28 @@ export const workExperience = [
   },
   {
     id: 3,
+    title: "Research Intern",
+    desc: "Developing and implementing machine learning models to identify patterns in the legal data.",
+    className: "md:col-span-2", // change to md:col-span-2
+    thumbnail: "/manupatra.png",
+    duration: "Feb 2024 - May 2024",
+  },
+  {
+    id: 4,
     title: "SDE Intern",
     desc: "Led the dev of 1st version of mobile app along with founding team, from initial concept to deployment on play store.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/prosessed.png",
     duration: "Feb 2024 - May 2024",
   },
+
   {
-    id: 4,
+    id: 5,
     title: "SDE-1",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
+    desc: "Building @Renkorover, A platform that analyzes data, identifies trends, and executes trades with precision allowing you to earn passive income more reliably.",
     className: "md:col-span-2",
     thumbnail: "/renkorover.png",
-    duration: "Jul 2021 - Present",
+    duration: "May 2023 - Present",
   },
 ];
 
