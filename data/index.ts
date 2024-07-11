@@ -190,21 +190,21 @@ export const workExperience = [
   },
   {
     id: 4,
-    title: "SDE Intern",
+    title: "SDE -1 ",
     desc: "Led the dev of 1st version of mobile app along with founding team, from initial concept to deployment on play store.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/prosessed.png",
-    duration: "Feb 2024 - May 2024",
+    duration: "Feb 2024 - Present",
   },
 
-  {
-    id: 5,
-    title: "SDE-1",
-    desc: "Building @Renkorover, A platform that analyzes data, identifies trends, and executes trades with precision allowing you to earn passive income more reliably.",
-    className: "md:col-span-2",
-    thumbnail: "/renkorover.png",
-    duration: "May 2023 - Present",
-  },
+  // {
+  //   id: 5,
+  //   title: "SDE-1",
+  //   desc: "Building @Renkorover, A platform that analyzes data, identifies trends, and executes trades with precision allowing you to earn passive income more reliably.",
+  //   className: "md:col-span-2",
+  //   thumbnail: "/renkorover.png",
+  //   duration: "May 2024 - Present",
+  // },
 ];
 
 export const socialMedia = [
